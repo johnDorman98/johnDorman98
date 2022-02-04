@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A young passionate software engineer!</h3>
 
-- 🔭 I’m currently working on **OOP Project Management**
-
 - 🌱 I’m currently learning **Java, Python**
 
 - 📫 How to reach me **namrods15@gmail.com**
