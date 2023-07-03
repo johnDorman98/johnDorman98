@@ -8,4 +8,4 @@
   - CSS
   - JavaScript
 
-- ⚡ Fun fact **Games got me interested in coding**
+⚡ Fun fact **Games got me interested in coding**
