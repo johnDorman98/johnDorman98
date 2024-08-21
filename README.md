@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-delta-plum-97.vercel.app/api?username=JohnDorman98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats-delta-plum-97.vercel.app/?user=JohnDorman98&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats-delta-plum-97.vercel.app/api/top-langs?username=JohnDorman98&theme=tokyonight&layout=compact&count_private=true)
+![](https://github-readme-stats-delta-plum-97.vercel.app/api/top-langs/?username=JohnDorman98&theme=tokyonight&layout=compact&count_private=true)
 
 
 
